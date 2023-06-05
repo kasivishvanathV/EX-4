@@ -7,6 +7,7 @@ To write a python program for simulating ARP protocols using TCP
 
 
 # ALGORITHM :
+
 Start the program.
 Get the frame size from the user
 To create the frame based on the user request.
