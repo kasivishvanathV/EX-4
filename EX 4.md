@@ -7,7 +7,12 @@ To write a python program for simulating ARP protocols using TCP
 
 
 # ALGORITHM :
-
+Start the program.
+Get the frame size from the user
+To create the frame based on the user request.
+To send frames to server from the client side.
+If your frames reach the server it will send ACK signal to client otherwise it will send NACKsignal to client.
+Stop the program
 
 # PROGRAM :
 
